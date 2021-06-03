@@ -1,0 +1,7 @@
+ git remote add origin https://github.com/yash149/art-and-craft-villa.git
+ git status
+ git diff
+ git status
+ git add .
+ git branch
+ git push --set-upstream origin main
